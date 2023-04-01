@@ -3,4 +3,4 @@ Project, assignments, and coursework for BYU ECON 484 - Machine Learning for Eco
 
 Problem set code is all written by me. Class work code is a mixture of my code and course materials written by Dr. Frandsen.
 
-These jupyter notebooks give a great overiew of machine learning techniques and demonstrates how to use them in economic research for handling instrumental variables, feature generation, and heterogeneous treatment effects.
+These jupyter notebooks give a great overiew of machine learning techniques and demonstrate how to use them in economic research for handling instrumental variables, feature generation, and heterogeneous treatment effects.
